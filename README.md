@@ -1,9 +1,9 @@
 
-🔍Information Gathering Tool
+<h2>🔍Information Gathering Tool</h2>
 
 A simple yet powerful Information Gathering Tool written in Python. This tool fetches essential data about a given website, including HTTP headers, IP addresses, and geolocation details.
 
-🚀 Features
+<h4>🚀 Features</h4>
 
 Fetches HTTP headers of a website.
 
@@ -13,19 +13,20 @@ Retrieves geolocation details (City, Region, Country, ISP) using ipinfo.io.
 
 Error handling for invalid domains and network issues.
 
-🛠️ Installation
+<h4>🛠️ Installation</h4>
 
 Ensure you have Python installed. Then, install the required dependencies:
 
 pip install requests
 
-📌 Usage
+
+<h4>📌 Usage</h4>
 
 Run the script with a domain name:
 
 python tool.py google.com
 
-✅ Example Output
+<h4>✅ Example Output</h4>
 
 HTTP Headers:
 {'Date': 'Thu, 13 Feb 2025 18:25:25 GMT', 'Content-Type': 'text/html', ...}
@@ -38,12 +39,12 @@ Country: IN<br>
 ISP: AS15169 Google LLC<br>
 City: Chennai<br>
 
-🔧 Error Handling
+<h4>🔧 Error Handling</h4>
 
 Invalid URL? The script will notify you.
 
 Network issues? The script will handle them gracefully.
 
-🤝 Contributing
+<h4>🤝 Contributing
 
 Feel free to fork this project, improve it, and submit a pull request!
