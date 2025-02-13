@@ -32,11 +32,11 @@ HTTP Headers:
 
 The IP address of google.com is: 142.250.193.142
 
-Location: 13.0878,80.2785
-Region: Tamil Nadu
-Country: IN
-ISP: AS15169 Google LLC
-City: Chennai
+Location: 13.0878,80.2785<br>
+Region: Tamil Nadu<br>
+Country: IN<br>
+ISP: AS15169 Google LLC<br>
+City: Chennai<br>
 
 🔧 Error Handling
 
